@@ -1,0 +1,146 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-size:21px;
+	
+}
+h1{
+	font:bold 27px tahoma;
+}
+h2{
+	font:bold 24px tahoma;
+}
+header,section,aside,navigation,article,footer,hgroup{
+	display:block;
+	border-radius:6px;
+	
+}
+body{
+	width:100%;
+	display:-webkit-box;
+	-webkit-box-pack:center;
+}
+
+#container{
+	-webkit-box-orient:vertical;
+	display:webkit-box;
+	max-width:1320px;
+	-webkit-box-flex:1;
+	margin:20px 0px;
+	border:no border;
+	height:1135px;
+	/*text-align:center;*/
+	background-color:#f0f8ff;
+}
+#head{
+	border:3px solid red;
+	background:yellow;
+	padding:20px;
+	
+	
+}
+#list{
+	
+	color:white;
+	text-decoration:none;
+}
+#list li{
+display:inline-block;
+cursor:pointer;
+color:white;
+background-color:;
+padding:5px;
+list-style:none;
+font-family:arial;
+font-size:14px;
+text-decoration:none;
+}
+#list li:hover{
+background-color:;
+color:black;
+}
+.flat{
+	text-align:left;
+	
+	
+}
+#newdiv{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+	border:no border;
+	height:990px;
+	margin-bottom:25px;
+}
+#contain{
+	border:no border;
+	-webkit-box-flex:1;
+	padding:15px 5px;
+	margin-top:13px;
+	margin-left:5px;
+	margin-right:10px;
+	margin-bottom:0px;
+	text-align:center;
+	background-color:white;
+}
+.image{
+	height:220px;
+	width:265px;
+	border:0.8px solid black;
+
+}
+h2[name="eman"]{
+	text-align:center;
+	text-decoration:underline;
+}
+footer[name="eman"]{
+	text-align:center;
+}
+#side{
+	-webkit-box-flex:1;
+	border:1px solid blue;
+	min-width:300px;
+	background-color:#ffebcd;
+	margin-top:13px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-bottom:0px;
+	height:410px;
+}
+.table{
+	margin:0px;
+	height:410px;
+	border:no border;
+	max-width:300px;
+	
+}
+td[name="data"]{
+	border-bottom:0.5px solid black;
+	cursor:pointer;
+	opacity:0.7;
+	border-spacing:5px;
+	
+}
+span[name="data"]{
+	
+}
+td[name="data"]:hover{
+	text-decoration:underline;
+	opacity:1;
+	border-bottom:0.8px solid black;
+}
+span[name="data"]:hover{
+	
+}
+#foot{
+	max-width:1310px;
+	text-align:center;
+	color:black;
+	border-top:3px solid green;
+	height:30px;
+	border:no border;
+	margin-bottom:0px;
+margin-left:5px;
+margin-right:5px;
+margin-top:0px;
+font-size:19px;
+}

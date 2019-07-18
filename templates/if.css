@@ -1,0 +1,19 @@
+body
+        {
+            font-family: arial,verdana,sans-serif,Georgia, "Times New Roman", Times, serif;
+            text-align:center;
+            background:#cceeff;
+        }
+        h1
+        {
+            color: blue;
+            text-shadow: 5px 5px 5px #aaaaaa;
+        }
+        
+    #page_banner
+{
+    text-align:left;
+    background:#cccccc;
+    padding:10px;
+    margin:5px;
+}

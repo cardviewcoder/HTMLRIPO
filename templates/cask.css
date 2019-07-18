@@ -1,0 +1,124 @@
+*
+{
+	padding:0px;
+	margin:0px;
+	font-family:tahoma;
+}
+#container{
+	margin-top:20px;
+display:-webkit-box;
+-webkit-box-orient:vertical;
+background-color:#f0f8ff;
+margin-top:3px;
+border-top:1px solid black;
+width:1200px;
+margin-left:80px;
+margin:;
+text-align:center;
+height:715px;
+}
+#divv{
+display:-webkit-box;
+-webkit-box-orient:horizontal;
+}
+#head{
+text-align:center;
+margin-left:150px;
+width:900px;
+height:113px;
+border: no boder;
+background-image:url(cropped.jpg);
+background-repeat:no-repeat;
+
+}
+#navig{
+padding-top:10px;	
+border: no border;
+margin-top:70px;
+}
+#list{
+	border: no boder;
+
+}
+#list li{
+	margin-bottom:1px;
+display:inline-block;
+cursor:pointer;
+color:white;
+background-color:black;
+padding:3px;
+list-style:none;
+font-family:arial;
+font-size:14px;
+text-decoration:none;
+}
+#list li:hover{
+background-color:#f0f8ff;
+color:black;
+}
+#contain{
+	padding:15px;
+-webkit-box-flex:1;
+border:no border;
+}
+#olist li{
+display:inline-block;
+}
+#pic{
+border:1px sold red;
+margin-left:5px;
+
+}
+.image{
+	height:220px;
+	width:265px;
+	border:0.8px solid black;
+
+}
+#side{
+	padding:18px;
+border:1px solid black;
+margin-left:15px;
+margin-right:10px;
+width:300px;
+}
+li [name="ash"]{
+margin-top:10px;	
+}
+header [name="infoo"]{
+	
+}
+#unodered
+{
+	list-style: none;
+}
+
+#foot{
+padding:5px;
+background-color:black;
+color:white;
+text-align:center;
+margin-top:40px;
+}
+
+
+
+/*<! doctype>
+<html>
+<head>
+<style>
+
+
+</style>
+
+</head>
+<body>
+<header id="head">
+
+</header>
+<section> </section>
+
+
+</body>
+
+</htmL>*/
